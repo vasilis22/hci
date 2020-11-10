@@ -22,5 +22,6 @@
 # Comand line 
 Η παρακάτω άσκηση ήταν μια ενδιαφέρουσα πρώτη επαφή με το τερματικό του λειτουργικού συστήματος linux και τη χρήση του εργαλείου Asciinema, κανένα απ'τα οποία δεν είχε τύχει να ξαναχρησιμοποιήσω στο παρελθόν. Η άσκηση είχε ως στόχο την αλλαγή του command prompt, την απεικόνιση των χαρακτηριστικών του υλικού και του λογισμικού του υπολογιστή και άλλες ανάλογες απλές λειτουργίες
 [![asciicast](https://asciinema.org/a/qZ68Nn9awJydTksRBqTDJF6Lc.svg)](https://asciinema.org/a/qZ68Nn9awJydTksRBqTDJF6Lc)
+https://asciinema.org/a/RscRwu7lpVqONdW835fHofcO2
 # CSS Menu
 Αυτή η άσκηση ήταν μια πιο ουσιαστική επαφή με τις γλώσσες html και css και βοήθησε αρκετά στο να αποκτηθεί μια μεγαλύτερη αυτοπεποίθηση στην κατανόηση και επέκταση του κώδικα οποίος [βρίσκεται εδώ](https://github.com/vasilis22/site/blob/master/_remix/menu-css.md) όπως και το [αποτέλεσμα](https://5faae7dec7f8c000081bcd26--nostalgic-benz-13785e.netlify.app/remix/menu-css/)
