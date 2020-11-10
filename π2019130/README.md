@@ -27,4 +27,4 @@
 # CSS Menu
 Αυτή η άσκηση ήταν μια πιο ουσιαστική επαφή με τις γλώσσες html και css και βοήθησε αρκετά στο να αποκτηθεί μια μεγαλύτερη αυτοπεποίθηση στην κατανόηση και επέκταση του κώδικα οποίος [βρίσκεται εδώ](https://github.com/vasilis22/site/blob/master/_remix/menu-css.md) όπως και το [αποτέλεσμα](https://5faae7dec7f8c000081bcd26--nostalgic-benz-13785e.netlify.app/remix/menu-css/).
 # weather 
-<script id="asciicast-HWn2kDTTTJ9tJlys7aKJjDXTK" src="https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK.js" async></script>
+[![asciicast](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK.svg)](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK)
