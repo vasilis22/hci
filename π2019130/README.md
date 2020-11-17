@@ -9,7 +9,7 @@
 | 3 |[Command line άσκηση](#Comand-line) |
 | 4 |[Άσκηση Menu CSS ](#CSS-Menu)|
 | 5 |[Η πρόγνωση του καιρού σε terminal](#weather-μέσω-command-line) |
-| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW)+ συμμετοχικό περιεχόμενο |
+| 6 | [Sortable list](#shortable-list)|
 | 7 | Άσκηση γραμμής εντολών (SW) + αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -28,3 +28,6 @@
 Αυτή η άσκηση ήταν μια πιο ουσιαστική επαφή με τις γλώσσες html και css και βοήθησε αρκετά στο να αποκτηθεί μια μεγαλύτερη αυτοπεποίθηση στην κατανόηση και επέκταση του κώδικα οποίος [βρίσκεται εδώ](https://github.com/vasilis22/site/blob/master/_remix/menu-css.md) όπως και το [αποτέλεσμα](https://5faae7dec7f8c000081bcd26--nostalgic-benz-13785e.netlify.app/remix/menu-css/).
 # weather μέσω command line 
 [![asciicast](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK.svg)](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK)
+# sortable list
+[κώδικας](https://github.com/vasilis22/site/blob/master/_remix/sortable-list.md)
+[αποτέλεσμα]()
