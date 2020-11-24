@@ -10,7 +10,7 @@
 | 4 | [Άσκηση Menu CSS ](#CSS-Menu)|
 | 5 | [Η πρόγνωση του καιρού σε terminal](#weather-μέσω-command-line) |
 | 6 | [Sortable list](#shortable-list)|
-| 7 | [Google drive backup](Google-drive-backup)|
+| 7 | [Google drive backup](#Google-drive-backup)|
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
