@@ -8,10 +8,10 @@
 | 2 | [Άσκηση Mouse Eraser](#Mouse-eraser)|
 | 3 | [Command line άσκηση](#Comand-line) |
 | 4 | [Άσκηση Menu CSS ](#CSS-Menu)|
-| 5 | [Η πρόγνωση του καιρού σε terminal](#weather-μέσω-command-line) |
-| 6 | [Sortable list](#shortable-list)|
+| 5 | [Η πρόγνωση του καιρού σε terminal](#Weather-μέσω-command-line) |
+| 6 | [Sortable list](#Sortable-list)|
 | 7 | [Google drive backup](#Google-drive-backup)|
-| 8 | [Mouse Form](#Mouse-Form) |
+| 8 | [Mouse Form](#Mouse-form) |
 | 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 10 | συμμετοχικό περιεχόμενο |
 | 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -26,14 +26,14 @@
 [![asciicast](https://asciinema.org/a/RscRwu7lpVqONdW835fHofcO2.svg)](https://asciinema.org/a/RscRwu7lpVqONdW835fHofcO2)
 # CSS Menu
 Αυτή η άσκηση ήταν μια πιο ουσιαστική επαφή με τις γλώσσες html και css και βοήθησε αρκετά στο να αποκτηθεί μια μεγαλύτερη αυτοπεποίθηση στην κατανόηση και επέκταση του κώδικα οποίος [βρίσκεται εδώ](https://github.com/vasilis22/site/blob/master/_remix/menu-css.md) όπως και το [αποτέλεσμα](https://5faae7dec7f8c000081bcd26--nostalgic-benz-13785e.netlify.app/remix/menu-css/).
-# weather μέσω command line 
+# Weather μέσω command line 
 [![asciicast](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK.svg)](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK)
-# sortable list
+# Sortable list
 [κώδικας](https://github.com/vasilis22/site/blob/master/_remix/sortable-list.md)
 [αποτέλεσμα]()
 # Google drive backup
 [![asciicast](https://asciinema.org/a/PutMAz1Qcj1K54lV8NWIWOHSA.svg)](https://asciinema.org/a/PutMAz1Qcj1K54lV8NWIWOHSA)
 [![asciicast](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ.svg)](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ)
-# Mouse Form
+# Mouse form
 [Κώδικας](https://github.com/vasilis22/site/blob/master/_remix/mouse-form.md)
 [αποτελεσμα](https://5fc6a1e9e39e9900085fd683--nostalgic-benz-13785e.netlify.app/remix/mouse-form/)
