@@ -27,8 +27,10 @@
 # CSS Menu
 Αυτή η άσκηση ήταν μια πιο ουσιαστική επαφή με τις γλώσσες html και css και βοήθησε αρκετά στο να αποκτηθεί μια μεγαλύτερη αυτοπεποίθηση στην κατανόηση και επέκταση του κώδικα οποίος [βρίσκεται εδώ](https://github.com/vasilis22/site/blob/master/_remix/menu-css.md) όπως και το [αποτέλεσμα](https://5faae7dec7f8c000081bcd26--nostalgic-benz-13785e.netlify.app/remix/menu-css/).
 # Weather μέσω command line 
+Η παρακάτω άσκηση χρειάστηκε μονο την εγκατάσταση του curl το οποίο είχα από μια απόπειρα με τα backups που βρίσκεται παρακάτω. Για να εγκατασταθεί αρκεί να γράψουμε sudo apt install curl στο τερματικό
 [![asciicast](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK.svg)](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK)
 # Sortable list
+
 [κώδικας](https://github.com/vasilis22/site/blob/master/_remix/sortable-list.md)
 [αποτέλεσμα](https://5fc6a3832c19d600077bc7d0--nostalgic-benz-13785e.netlify.app/remix/sortable-list/)
 # Google drive backup
