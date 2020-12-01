@@ -35,7 +35,7 @@
 Εγκατέστησα το απαιτούμενο εργαλείο Rclone και ακολουθώντας το user manual του το έκανα ένα configuration για το google drive όπως φαίνεται παρακάτω
 [![asciicast](https://asciinema.org/a/PutMAz1Qcj1K54lV8NWIWOHSA.svg)](https://asciinema.org/a/PutMAz1Qcj1K54lV8NWIWOHSA)\
 Εξουσιοδότησα το Rclone να έχει πρόσβαση στο google drive\
-Τέλος το αυτοματοποιήσα με το crone\
+Τέλος το αυτοματοποιήσα με το cron\
 [![asciicast](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ.svg)](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ)
 # Mouse form
 [Κώδικας](https://github.com/vasilis22/site/blob/master/_remix/mouse-form.md)
