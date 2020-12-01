@@ -30,11 +30,12 @@
 Η παρακάτω άσκηση χρειάστηκε μονο την εγκατάσταση του curl το οποίο είχα από μια απόπειρα με τα backups που βρίσκεται παρακάτω. Για να εγκατασταθεί αρκεί να γράψουμε sudo apt install curl στο τερματικό
 [![asciicast](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK.svg)](https://asciinema.org/a/HWn2kDTTTJ9tJlys7aKJjDXTK)
 # Sortable list
-
-[κώδικας](https://github.com/vasilis22/site/blob/master/_remix/sortable-list.md)
-[αποτέλεσμα](https://5fc6a3832c19d600077bc7d0--nostalgic-benz-13785e.netlify.app/remix/sortable-list/)
+Για αυτή την άσκηση χρειάστηκε να εντοπίσω στον [κώδικα](https://github.com/vasilis22/site/blob/master/_remix/sortable-list.md) τις μεταβλητές που είναι υπεύθυνες για την απόσταση και το μέγεθος των αντικειμένων, ουτως ώστε να τα μετατρέψω όπως ζητείται απ' την άσκηση και να αναζητήσω τις κωδικές ονομασίες των χρωμάτων προκειμένου να έχω την δυνατότητα να τα μεταβάλλω στο επιθυμητό [αποτέλεσμα](https://5fc6a3832c19d600077bc7d0--nostalgic-benz-13785e.netlify.app/remix/sortable-list/)
 # Google drive backup
+Εγκατέστησα το απαιτούμενο εργαλείο Rclone και ακολουθώντας το user manual του το έκανα ένα configuration για το google drive όπως φαίνεται παρακάτω\n
 [![asciicast](https://asciinema.org/a/PutMAz1Qcj1K54lV8NWIWOHSA.svg)](https://asciinema.org/a/PutMAz1Qcj1K54lV8NWIWOHSA)
+Εξουσιοδότησα το Rclone να έχει πρόσβαση στο google drive\n
+Τέλος το αυτοματοποιήσα με το crone
 [![asciicast](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ.svg)](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ)
 # Mouse form
 [Κώδικας](https://github.com/vasilis22/site/blob/master/_remix/mouse-form.md)
