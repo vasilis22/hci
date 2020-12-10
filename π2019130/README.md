@@ -39,5 +39,5 @@
 [![asciicast](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ.svg)](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ)
 # Mouse form
 [Κώδικας](https://github.com/vasilis22/site/blob/master/_remix/mouse-form.md)
-[αποτελεσμα](https://5fc6a1e9e39e9900085fd683--nostalgic-benz-13785e.netlify.app/remix/mouse-form/)
+[αποτελεσμα](https://5fc6a1e9e39e9900085fd683--nostalgic-benz-13785e.netlify.app/remix/mouse-form/)\
 [![asciicast](https://asciinema.org/a/eOZvfuH316MXQqy4LOD5dIw0p.svg)](https://asciinema.org/a/eOZvfuH316MXQqy4LOD5dIw0p)
