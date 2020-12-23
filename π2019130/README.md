@@ -38,8 +38,10 @@
 Τέλος το αυτοματοποιήσα με το cron\
 [![asciicast](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ.svg)](https://asciinema.org/a/F6hTAQmvc8E5XGXihAKFI7EyJ)
 # Mouse form
+Για την επίλυση αυτής της άσκησης χρειάστηκε να διάβασω τον ήδη υπάρχων κώδικα και να προσθέσω μερικές γραμμές HTML ώστε να πληροί της προϋποθέσεις.
 [Κώδικας](https://github.com/vasilis22/site/blob/master/_remix/mouse-form.md)
 [αποτελεσμα](https://5fc6a1e9e39e9900085fd683--nostalgic-benz-13785e.netlify.app/remix/mouse-form/)
 # Notifications with ntfy
+Επέλεξα αυτή την άσκηση αφού σκέφτηκα ότι μπορώ να το συνδυάσω με την προηγούμενη και το θεώρησα ενδιαφέρον.Εφοσον εγκατέστησα το ntfy έκανα ένα script που θα έτρεχε το backup και όταν	τελείωνε θα έβγαζε την παρακάτω ειδοποίηση 
 [![asciicast](https://asciinema.org/a/eOZvfuH316MXQqy4LOD5dIw0p.svg)](https://asciinema.org/a/eOZvfuH316MXQqy4LOD5dIw0p)
 ![alt text](https://github.com/vasilis22/hci/blob/%CF%802019130/images/Untitled.png)
